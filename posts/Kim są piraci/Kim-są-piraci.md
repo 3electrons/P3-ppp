@@ -2,7 +2,7 @@ Kim są tak naprawdę Ci współcześni piraci ? Garstką niedobitków w odradza
 
 Cóż.... 
 
-Jesteśmy wolnymi ludźmi, którzy nie boją się powiedzieć co myślą w twarz drugiemu piratowi . Bo  co Ci ostatecznie grozi? Że Cię opluje? Śmiejąc się w twarz?
+Jesteśmy wolnymi ludźmi, którzy nie boją się powiedzieć co myślą w twarz drugiemu piratowi . Bo  co Ci ostatecznie grozi? Że Cię opluje? Śmiejąc się w Twoją twarz?
  
 Wyzwie na współczesny pojedynek o honor? 
 
