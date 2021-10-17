@@ -1,15 +1,14 @@
-Żeby stworzyć prawdziwie skuteczny społeczno-polityczny system decyzyjny, potrzeba synergii działań na wielu płaszczyznach. Zaprojektowanie fundamentalnych zasad zarówno Demokracji Bezpośredniej, a tym bardziej Demokracji Płynnej i wynikających z nich mechanizmów, jest nielada wyzwaniem i w zasadzie niemożliwe do wykonania tylko przez jeden, a nawet 2 z 3 sektorów polskiej sceny publicznej. 
+Żeby stworzyć prawdziwie skuteczny społeczno-polityczny system decyzyjny, potrzeba synergii działań na wielu płaszczyznach. Zaprojektowanie fundamentalnych zasad zarówno Demokracji Bezpośredniej, a tym bardziej Demokracji Płynnej i wynikających z nich mechanizmów, jest nie lada wyzwaniem i w zasadzie niemożliwe do wykonania tylko przez jeden, a nawet 2 z 3 sektorów jakimi są sektory: obywatelski, prywatny oraz publiczny.
 
-Aby to miało praktyczny sens, a zarazem było konsensusem wypracowanym przez wszystkich obywateli, firmy i instytucje, niezbędna jest współpraca, wręcz symbioza, wszystkich 3. sektorów, niekoniecznie na wszystkich etapach. Od pomysłu i projektu, przez bezpieczeństwo, na wcieleniu takich zmian w życie. Od eksperymentowania na małych grupach, jak szkoła czy firma i sprawdzania jak to się sprawdza, na finalnym celu, jakim jest wprowadzenie tych mechanizmów w życie.
+Aby to miało praktyczny sens, a zarazem było konsensusem wypracowanym przez wszystkie w/w sektory niezbędna jest współpraca a wręcz symbioza. Od pomysłu i projektu, przez walidację bezpieczeństwa, aż po wcielenie projektu w życie. Samo wdrożenie też będzie przeprowadzane etapami poprzez eksperymentowanie na małych grupach, jak szkoła, firma czy lokalna społeczność i zbierania informacji zwrotnych w celu doskonalenia projektu by nadawał się do codziennego użytku. 
 
 Zajmiemy się poniżej pobieżną analizą wszystkich trzech sektorów, ale skupimy się dokładniej na rolach, jakie poszczególne podmioty, czy osoby, mogą odegrać w kształtowaniu, a później wykonaniu tego arcytrudnego zadania, jakim jest docelowa implementacja BBLD na ziemiach polskich.
-
-
 
 Sektor obywatelski, tak zwany 3. sektor. 
 Zacznijmy od końca drabinki przewidzianej w naszej konstytucji, ponieważ akurat tak się układa stos proponowanych przez nas (na wstępie), zależności.
 
-Jak sama nazwa wskazuje, to wszelkiego rodzaju aktywności obywateli i organizacji pozarządowych (NGO - Non Goverment Organization), czyli fundacje i stowarzyszenia, mające na celu szeroko-pojęte działania "pro publico bono". Na samym wstępie wydawałoby się, że jest to naturalna opcja dla takiej inicjatywy, jaką jest koncepcja DB, czy BBLD, ale kto wie? Może tylko powierzchownie?
+Jak sama nazwa wskazuje, oznacza ona wszelkiego rodzaju aktywności obywateli i organizacji pozarządowych (NGO - Non Goverment Organization), czyli fundacje i stowarzyszenia, mające na celu szeroko-pojęte działania "pro publico bono". 
+Na samym wstępie wydawałoby się, że jest to naturalna opcja dla takiej inicjatywy, jaką jest koncepcja DB, czy BBLD, ale kto wie? Może tylko powierzchownie?
 
 Jak przeanalizujemy wszelkie za i przeciw, będziesz mógł, drogi czytelniku, zwizualizować sobie wszelkie potencjalne scenariusze i przepuścić je przez swoje filtry zdrowego rozsądku, ale załóżmy na wstępie (mam nadzieję, że błędnie), że wyżej wymienione fundacje i stowarzyszenia, w smutnej, szarej rzeczywistości, nie zachowują się i nie działają tak wspaniale, jak głoszą ich górnolotne statuty oraz zarządy ich strzegące. 
 
@@ -24,11 +23,13 @@ Z racji tego, że nie ma tam, a przynajmniej nie powinno być na piedestale inte
 
 Co znaczy, skrzywiony? 
 
-Polega to na tym, że zarządy decydujące o środkach finansowych z datków lub grantów w ich dyspozycji, przeznaczają je na działania, które potrzebują akurat usług firm czy osób zaprzyjaźnionych, a niekoniecznie najlepszych, czy niezbędnych do spełniania celów statutowych... koło się zazwyczaj szybko zamyka i wykrzywia zwierciadło. 
+Polega to na tym, że instytucje decydujące o środkach przyznawanych w ramach grantów nie są przekazywane według klucza kompetencji, celów statusowych lub z pominięciem mechanizmów konkurencji o finansowanie najlepszych i najszlachetniejszych incjatyw obywatelskich. Natomiast przyznawane są według kryteriów pokrewieństwa, znajomości a nawet zbieżnych czy wspólnych interesów. 
 
-Dodatkowym problemem jest tzw. "drenaż mózgów", polegający na wyssaniu wykwalifikowanych zasobów ludzkich do pierwszych dwóch sektorów, czyli firm, budżetówki, lub spółek skarbu państwa. Dzieje się tak z prostej przyczyny. Tam się z definicji po prostu lepiej zarabia, lub żyje "pewniej", choć oczywiście zawsze są wyjątki, potwierdzające tylko regułę. 
+<To jest inny porblem o ile rozumiem który może występować niezależnie od problemu skrzywienia - jak rozumiem> 
+Kolejnym problemem jest tzw. "drenaż mózgów", polegający na wyssaniu wykwalifikowanych zasobów ludzkich do pierwszych kolejnych sektorów, czyli firm, budżetówki, lub spółek skarbu państwa. Dzieje się tak z prostej przyczyny. Tam z reguły po prostu lepiej się zarabia, lub żyje "pewniej", choć oczywiście zawsze są wyjątki. 
 
-Bez uczciwie pozyskanych pieniędzy, przekazanych uczciwie na swoje cele statutowe, a nie interesy osób z zarządu i ich bliskich, nie jesteśmy w stanie budować fundamentów, ponieważ wcześniej czy później, może dojść do sytuacji, gdzie konflikt interesesów wewnątrz danej organizacji, będzie tak duży i lawinowy, że niemożliwy wręcz do powstrzymania. Jak się przed tym uchronić? Jak wyeliminować potencjalne problemy? Dopiero nad tym pracujemy i mamy nadzieję, że nam w tym pomożesz ;)
+
+Bez uczciwie pozyskanych pieniędzy, przekazanych uczciwie na swoje cele statutowe, a nie interesy osób z zarządu i ich bliskich, nie jesteśmy w stanie budować fundamentów poważnych i donośnych projektów, ponieważ wcześniej czy później, może dojść do sytuacji, gdzie konflikt interesesów wewnątrz danej organizacji, będzie tak duży i lawinowy, że niemożliwy wręcz do powstrzymania. Jak się przed tym uchronić? Jak wyeliminować potencjalne problemy? Dopiero nad tym pracujemy i mamy nadzieję, że nam w tym pomożesz ;)
 
 
 
@@ -39,12 +40,12 @@ Na samym wstępie, bo to bardzo istotne dla dalszego toku rozumowania, należy o
 
 
 
-Bardzo częstym problemem takiego postrzegania świata zakładając, że biznes jest zły, jest czychająca zza węgła, nieunikniona hipokryzja, której raczej nikt nie lubi. Zaprzeczając fundamentalnym potrzebom ludzkim, jakim jest dolna część Piramidy Masłowa, nie jesteśmy w stanie osiągnąć tych wyższych... czy się to komuś podoba, czy nie. Zagłodzony rzeźbiarz z gwoździem zamiast dłuta, nie zrobi arcydzieła z marmuru tylko "dla sztuki", lub "dla idei", bo go zwyczajnie nie będzie na to stać. Bez wolnorynkowego kupca, czy szerokopojętego mecenasa, ten projekt, po prostu nie będzie miał racji bytu, ale czy będzie nadal czysty i wolny gdy się "sprzeda", to już kwestia dyskusyjna…
+Bardzo częstym problemem takiego postrzegania świata zakładając, że biznes jest zły, jest czychająca zza węgła, nieunikniona hipokryzja, której raczej nikt nie lubi. Zaprzeczając fundamentalnym potrzebom ludzkim, jakim jest dolna część Piramidy Masłowa, nie jesteśmy w stanie osiągnąć tych wyższych... czy się to komuś podoba, czy nie. Zagłodzony rzeźbiarz z gwoździem zamiast dłuta, nie zrobi arcydzieła z marmuru w imię wyżzych pobudek, bo go zwyczajnie nie będzie na to stać. Bez wolnorynkowego kupca, czy szerokopojętego mecenasa, ten projekt, po prostu nie będzie miał racji bytu, ale czy będzie nadal czysty i wolny gdy się "sprzeda", to już kwestia dyskusyjna…
 
 Z drugiej jednak strony, kierowanie się tylko i wyłącznie interesem rozumianym przez pieniądze, lub udziały w spółkach, może najprawdopodobniej, najszybciej skrzywić perspektywę. O ile we wszystkich, okrzepniętych branżach, jest to absolutnie normalne... ba!... nawet wskazane, o tyle, problem pojawia się inny... wręcz bezprecedensowy, ponieważ DB, czy BBLD, nie może być traktowana jak tylko kolejny produkt cyfrowy.
 
 Jak możemy zaufać danej firmie, że zrobi coś, z czego nie będzie miała korzyści majątkowych, a jednocześnie będzie jej się to opłacało? Patrząc na to z perspektywy prawa o spółkach, mogłoby to być wręcz oskarżeniem dla zarządu o działanie na niekorzyść danej spółki, bądź NGO, dlatego wpadamy w bardzo prawdopodobny konflikt interesów.
-
+<Nie jestem pewien czy NGO - faktycznie jest zoobowiązane do "osiągania zysków" - chyba nie> 
 Pomimo powyższych wątpliwości, nie wyobrażamy sobie osiągnięcia sukcesu, bez sektora prywatnego, ponieważ albo nie będzie nas na to stać, albo nie będziemy mieli wystarczająco wykwalifikowanych kadr, a za tym 'know-how', które skupiają się akurat w II. sektorze.
 
 
@@ -56,7 +57,7 @@ Na samym szczycie tej naszej, narodowej drabiny, znajdują się instytucje pańs
 
 
 
-Ostatecznym celem całego projektu jest zmiana ordynacji wyborczej, bez której nie da się ostatecznie zaimplementować mechanizmów Płynnej Demokracji, kóre po pierwsze, muszą działać w oparciu o Konstytucję RP, a na dodatek być komplementaryjne, czyli nieobowiązkowe. Nikt z nas nie chce robić rewolucji, bo potrafimy wyciągać wnioski z historii, a na dodatek, zmiany, które chcemy zaproponować, nie kłócą się nijak, z duchem obecnej konstytucji. 
+Ostatecznym celem całego projektu jest zmiana ordynacji wyborczej, bez której nie da się ostatecznie zaimplementować mechanizmów Płynnej Demokracji, kóre po pierwsze, muszą działać w oparciu o Konstytucję RP, a na dodatek być komplementaryjne, czyli nieobowiązkowe. Nikt z nas nie chce robić rewolucji, bo potrafimy wyciągać wnioski z historii, dlatego zmiany, które chcemy zaproponować, nie kłócą się z duchem obecnej konstytucji. 
 
 Wiedząc powyższe, ostatnim, a tak na prawdę pierwszym w hierarchii, fundamentalnym elementem jest właśnie I. sektor, a dokładnie parlament. Nie ma innej legalnej opcji żeby wprowadzić takie zmiany w sposobie delegowania głosu wyborczego, niż zaproponowanie sprawdzonego już rozwiązania i przeprocesowanie ustawy, a potem jej przegłosowania w sejmie. 
 
@@ -71,7 +72,7 @@ Zdajemy sobie sprawę z ciężaru, trudności i odpowiedzialności, stojących z
 
 
 
-Podsumowując. Jeżeli nie uda nam się wypracować konsensusu pomiędzy wszystkimi, wyżej pobieżnie przeanalizowanymi sektorami i ich interesami, istnieje uprawnione ryzyko, że pomysł ugrzęźnie gdzieś na marginesie świadomości, albo zostanie wypatrzony przez pojedynczy podmiot lub sektor, przez co nie spełni, podstawowych wymogów ani Demokracji Bezpośredniej, ani Płynnej, które z definicji mają być konsensusem ogólno-społecznym opartym o otwarte oprogramowanie, bezstronne i egzekwowalne zasady, kryptografię rozproszonych rejestrów, a przede wszystkom z uwypukleniem roli ogółu obywateli, jako suwerena, zgodnie z 
+Podsumowując. Jeżeli nie uda nam się wypracować konsensusu pomiędzy wszystkimi, wyżej pobieżnie przeanalizowanymi sektorami i ich interesami, istnieje ryzyko, że pomysł ugrzęźnie gdzieś na marginesie świadomości, albo zostanie wypatrzony przez pojedynczy podmiot lub sektor, przez co nie spełni, podstawowych wymogów ani Demokracji Bezpośredniej, ani Płynnej, które z definicji mają być konsensusem ogólno-społecznym opartym o otwarte oprogramowanie oraz bezstronne i egzekwowalne zasady. Mechanizym te chcemy zrealizować w oparciu o kryptografię rozproszonych rejestrów, a przede wszystkom z uwypukleniem roli ogółu obywateli, jako suwerena, zgodnie z 
 
 
 
@@ -86,5 +87,5 @@ Zobacz artykuł na Wikipedii
 
 
 
-Tylko poprzez zestawienie wymagań, ograniczeń i konfliktów interesów wszystkich trzech sektorów, jest możliwe stworzenie zdecentralizowanego systemu delegowania, lub cofania głosu, dzięki któremu nasza Konstytucja będzie w pełni chroniona.
+Tylko poprzez analizę wymagań, ograniczeń i konfliktów interesów wszystkich trzech sektorów, jest możliwe stworzenie zdecentralizowanego systemu delegowania, lub cofania głosu, dzięki któremu nasza Konstytucja będzie w pełni chroniona.
 
